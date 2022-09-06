@@ -3,9 +3,11 @@
  
 #pragma once
  
+// class file seperate from others to initalize class
 class vector131
 {
 public:
+  // public function
    vector131();
 private:
  
